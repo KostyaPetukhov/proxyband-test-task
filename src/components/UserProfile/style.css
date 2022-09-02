@@ -1,0 +1,16 @@
+.profile {
+	font-size: 18px;
+}
+
+.button {
+	font-size: 14px;
+	cursor: pointer;
+}
+
+.buttonBlock {
+	margin: 20px;
+	width: 30%;
+	display: flex;
+	justify-content: space-between;
+	align-items: center;
+}
